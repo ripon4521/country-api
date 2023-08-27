@@ -5,8 +5,9 @@
     font-family: "Poppins", sans-serif;
   }
   body {
-    background-color: #3d64e6;
+    background-color: #65af8e;
   }
+
   .container {
     background-color: #ffffff;
     width: 80vw;
@@ -74,4 +75,9 @@
     font-size: 1.2em;
     font-weight: 400;
     color: #ff465a;
+  }
+
+  .foot{
+    text-align: center;
+    margin-top: 40em;
   }
